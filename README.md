@@ -6,7 +6,7 @@ Browse the start page in a vintage style!
 
 ## Try the demo
 
-http://neontomo.com/hackernews-95/
+https://neontomo.github.io/hackernews-95
 
 ## Screenshot
 
