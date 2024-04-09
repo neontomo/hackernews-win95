@@ -1,4 +1,4 @@
-# hackernews.exe
+# hackernews95.exe
 
 Hacker News on a React page that looks like Windows 95.
 
